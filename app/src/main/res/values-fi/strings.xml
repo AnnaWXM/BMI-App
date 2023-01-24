@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="enter_your_height_m_here">Syötä pituutesi (m) tähän</string>
+    <string name="enter_your_weight_kg_here">Syötä painosi (kg) tähän</string>
+    <string name="calculate">Laskea</string>
+    <string name="according_to_your_bmi">BMI:si mukaan...</string>
+</resources>

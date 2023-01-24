@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="enter_your_height_m_here">请输入你的身高（米）</string>
+    <string name="enter_your_weight_kg_here">请输入你的体重（千克/公斤）</string>
+    <string name="calculate">计算</string>
+    <string name="according_to_your_bmi">根据你的BMI...</string>
+</resources>
